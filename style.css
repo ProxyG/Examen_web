@@ -1,0 +1,11 @@
+td{
+    width: 100px;
+}
+
+tr{
+    background-color: red;
+}
+
+table{
+    border-collapse: collapse;
+}
